@@ -1,0 +1,83 @@
+//ques1
+// let fruits = ["apple", "banana", "cherry"];
+// fruits.push("grape");
+// fruits.shift();
+// fruits.unshift("kiwi");
+// fruits.pop();
+// console.log(fruits)
+
+// function jsclass() {
+// function delayedMessage() {
+// console.log("test");
+
+//Ques2
+// setTimeout(delayedMessage, 2000);
+// jsclass();
+
+// function jsclasstest() {
+// function delayedMessage() {
+// console.log("test");
+
+// setInterval(delayedMessage,
+// jsclasstest();
+
+
+//Ques3
+// let arr = [1, 2, 3];
+// arr.push(4);//[1,2,3,4]
+// arr.pop();//[1,2,3]
+// arr.shift();//[2,3]
+// console.log(arr);//[2,3]
+
+//Ques4
+// function greet() {
+//   console.log("Hello");
+// }
+// setTimeout(greet, 2000);
+// console.log("Bye");
+
+//answer of 4(first the bye will print then greet function will print )
+
+//ques5
+//push() ---> it will add element at the back of of thye array 
+//unshift()---> it will add element in the starting of the array 
+
+//Ques6  ----->(a, b) => { return a + b; }
+//Ques7  ----->
+//Ques8  ----->Math.floor(4.7) ---> 4
+//             Math.ceil(4.7) ----->5
+
+//Ques9  ----->
+// let num = Math.floor(Math.random() * 10);
+// console.log(num);
+// output will be random due to the use of random functions 
+
+//Ques10  ----->
+// function factorial(n) {
+//  let fact=1;
+// for(let i=1;i<=n;i++){
+//     fact=fact*i;
+    
+// }
+// console.log(fact)
+// }
+// factorial(5)
+
+//Ques11  ----->B. Math.floor(Math.random() * 10)
+//Ques12  ----->A function without a name
+// ques13  ----->
+// let temprature=30;
+// if (temprature > 25){
+//     console.log("its hot ");
+// }
+// else{
+//     console.log("its not too hot ")
+// }
+//ques14  ----->
+//  let numbers = [12, 5, 23, 8, 17, 30];
+//  if(numbers>15){
+//      console.log(numbers)
+ }
+//Ques15  ----->
+// let x = 5.5;
+// console.log(Math.round(x));// 6
